@@ -6,8 +6,8 @@ Home Work 1: Button to change text color, magically (100% real no fake).
 <title>
 MAGIC BUTTON
 </title>
-
 </head>
 <body>
+  <button type="button">Click Me!</button>
 </body>
 </html>
